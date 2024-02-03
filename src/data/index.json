@@ -1,0 +1,115 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/csharp.png",
+      "title": "c++"
+    },
+    {
+      "id": "2",
+      "src": "./img/java.png",
+      "title": "Java"
+    },
+    {
+      "id": "3",
+      "src": "./img/python.png",
+      "title": "Python"
+    },
+    {
+      "id": "4",
+      "src": "./img/ruby.png",
+      "title": "Ruby"
+    },
+    {
+      "id": "5",
+      "src": "./img/aws.png",
+      "title": "AWS"
+    },
+    {
+      "id": "6",
+      "src": "./img/react.png",
+      "title": "React"
+    },
+    {
+      "id": "7",
+      "src": "./img/cshar.png",
+      "title": "C#"
+    },
+    {
+      "id": "8",
+      "src": "./img/docker.png",
+      "title": "Docker"
+    },
+    {
+      "id": "9",
+      "src": "./img/c.png",
+      "title": "C"
+    },
+    {
+      "id": "9",
+      "src": "./img/kubernetes.png",
+      "title": "Kubernetes"
+    },
+    {
+      "id": "9",
+      "src": "./img/github.png",
+      "title": "Git"
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/placeholder-image.png",
+      "title": "Product Reccomendation",
+      "description": "Created e-commerce web and mobile platforms, integrating Recommendation Engine trained based on collaborative filtering and graph neural networks to offer personalized product recommendations based on user activity and purchase history.",
+      "link": "View In Github"
+    },
+    {
+      "id": "2",
+      "src": "./img/placeholder-image-1.png",
+      "title": "Face Verification",
+      "description": "Designed a naive Face verification system by extracting features with CNNs from the Inception model trained on the ImageNet dataset and computing triplet loss distance.",
+      "link": "View In Github"
+    },
+    {
+      "id": "3",
+      "src": "./img/placeholder-image-2.png",
+      "title": "American Sign Language Detection",
+      "description": "American Sign Language (ASL) detection system using the ResNet50 neural network architecture. The system aims to recognize and classify hand gestures from video sequences, enabling real-time communication and interaction for individuals with hearing impairments.",
+      "link": "View In Github"
+    },
+    {
+      "id": "4",
+      "src": "./img/placeholder-image-2.png",
+      "title": "Code Judge",
+      "description": "Designed and implemented an efficient grading system that precisely evaluated student performance, offering tailored solutions for each problem. Additionally, I optimized the enrollment process by incorporating an access code system, simplified navigation through questions with tagging functionality, and enhanced instructor efficiency with a bulk upload feature for test cases. The system also generated comprehensive statistics, aiding instructors in evaluating class performance and pinpointing areas for improvement.",
+      "link": "View In Github"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Dianne Russel",
+      "author_designation": "Starbucks"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kristin Watson",
+      "author_designation": "Louis Vuitton"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kathryn Murphy",
+      "author_designation": "McDonald's"
+    }
+  ]
+}
